@@ -1,0 +1,15 @@
+# Ignore virtual environment
+env/
+.idea/
+
+# Ignore all .mp4 files
+*.mp4
+
+#some extra files
+cccc.py
+sss.py
+welcome.py
+logo.png
+pngwing.com.png
+
+
