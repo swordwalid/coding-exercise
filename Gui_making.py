@@ -187,7 +187,7 @@ def show_tkinter_gui():
                    foreground="green", bg='#c4a154')
     label1.place(x=20, y=180)
 
-    web_cam_label = Label(window, text="webcam")
+    web_cam_label = Label(window, text="webcam/video")
     web_cam_label.place(x=300, y=20, width=630, height=500)
 
     window.protocol("WM_DELETE_WINDOW", close)
