@@ -1,6 +1,8 @@
 # Object Detection GUI  
 
-This project provides a GUI for object detection using a pre-trained model.  
+This project provides a GUI for object detection using a custom-trained YOLOV4 darknet model.
+![image alt](https://github.com/swordwalid/coding-exercise/blob/main/gggg.png?raw=true)
+
 
 ## Installation  
 
